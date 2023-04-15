@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="springboot-04:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/springboot_04_jar</output-path>
+    <root id="archive" name="springboot-04.jar">
+      <element id="module-output" name="springboot-04" />
+    </root>
+  </artifact>
+</component>
